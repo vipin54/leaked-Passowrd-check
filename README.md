@@ -1,2 +1,2 @@
 # leaked-Password-check
-checking if passowrd is leaked or not using api
+checking if password is leaked or not using api
